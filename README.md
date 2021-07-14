@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Modulo de eact da gama academy
+salvando meu progresso e treinando git ao mesmo tempo ;)
+Segue abaixo o README.md original da Create React App
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
